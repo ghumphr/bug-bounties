@@ -1,0 +1,38 @@
+{
+    "target": {
+        "scope": {
+            "advanced_mode": true,
+            "exclude": [],
+            "include": [
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.nebraska\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.unk\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.unl\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.unomaha\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                }
+            ]
+        }
+    }
+}
