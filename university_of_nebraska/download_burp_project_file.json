@@ -7,28 +7,56 @@
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.nebraska\\.edu$",
+                    "host": "^nebraska\\.edu$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.unk\\.edu$",
+                    "host": "^*\\.nebraska\\.edu$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.unl\\.edu$",
+                    "host": "^unk\\.edu$",
                     "port": "^443$",
                     "protocol": "https"
                 },
                 {
                     "enabled": true,
                     "file": "^/.*",
-                    "host": "^.*\\.unomaha\\.edu$",
+                    "host": "^*\\.unk\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^*\\.unl\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^unl\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^*\\.unomaha\\.edu$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^unomaha\\.edu$",
                     "port": "^443$",
                     "protocol": "https"
                 }
